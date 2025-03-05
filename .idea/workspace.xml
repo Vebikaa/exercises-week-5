@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac57ee96-cb3f-4a9b-82f2-1692504be534" name="Changes" comment="updated main">
+    <list default="true" id="ac57ee96-cb3f-4a9b-82f2-1692504be534" name="Changes" comment="updated main1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,16 +12,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Vebika Boulos &lt;vebikab@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "main",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="updated main">
       <option name="closed" value="true" />
@@ -39,7 +47,47 @@
       <option name="project" value="LOCAL" />
       <updated>1741181009778</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated main">
+      <option name="closed" value="true" />
+      <created>1741181845297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741181845297</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated main">
+      <option name="closed" value="true" />
+      <created>1741181893864</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741181893864</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updated main">
+      <option name="closed" value="true" />
+      <created>1741182086284</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741182086284</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated main1">
+      <option name="closed" value="true" />
+      <created>1741182173648</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741182173648</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated main1">
+      <option name="closed" value="true" />
+      <created>1741182189963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741182189963</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated main" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated main" />
+    <MESSAGE value="updated main1" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated main1" />
   </component>
 </project>
