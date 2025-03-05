@@ -9,4 +9,7 @@ public class Main {
     }
 }
 
-class Piece {}
+class Piece{
+    n=5
+}
+
